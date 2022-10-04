@@ -1,0 +1,5 @@
+Create a Rock, Paper, Scissors Game
+
+Level 1 - That has the user input text and it outputs the result.
+Level 2 - That will prompt the user to re-enter a choice if they enter an invalid choice.
+Level 3 - That uses buttons as input (see Tkinter or Kivy, GUIzero)
